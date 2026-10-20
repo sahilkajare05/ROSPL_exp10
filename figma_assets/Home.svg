@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <defs>
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Frame -->
+  <rect width="390" height="844" rx="32" fill="#F8FAFC"/>
+
+  <!-- Header -->
+  <text x="28" y="65" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="800" fill="#0F172A">FinWise</text>
+  <text x="28" y="92" font-family="Inter,Arial,sans-serif" font-size="15" fill="#64748B">Welcome back, Sahil!</text>
+
+  <!-- Dark Mode Toggle Button Simulation -->
+  <rect x="278" y="45" width="84" height="36" rx="18" fill="#E2E8F0"/>
+  <circle cx="296" cy="63" r="12" fill="#FFFFFF"/>
+  <text x="316" y="68" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="600" fill="#334155">Dark</text>
+
+  <!-- Metric Cards: Budget, Spent, Balance -->
+  <rect x="24" y="125" width="104" height="96" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+  <text x="36" y="152" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="600" fill="#64748B">Monthly Budget</text>
+  <text x="36" y="194" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="800" fill="#0F172A">₹5,000</text>
+
+  <rect x="143" y="125" width="104" height="96" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+  <text x="155" y="152" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="600" fill="#64748B">Total Spent</text>
+  <text x="155" y="194" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="800" fill="#E11D48">₹2,350</text>
+
+  <rect x="262" y="125" width="104" height="96" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+  <text x="274" y="152" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="600" fill="#64748B">Remaining</text>
+  <text x="274" y="194" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="800" fill="#059669">₹2,650</text>
+
+  <!-- Section Title -->
+  <text x="26" y="260" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="700" fill="#0F172A">Recent Expenses</text>
+  <text x="364" y="260" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="600" fill="#4F46E5">October</text>
+
+  <!-- Expense Item 1 -->
+  <rect x="24" y="280" width="342" height="60" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <rect x="36" y="292" width="36" height="36" rx="10" fill="#EFF6FF"/>
+  <text x="54" y="316" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="16">🍔</text>
+  <text x="84" y="306" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#0F172A">College Canteen Lunch</text>
+  <text x="84" y="324" font-family="Inter,Arial,sans-serif" font-size="12" fill="#64748B">Food &amp; Dining • Today</text>
+  <text x="350" y="315" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="700" fill="#E11D48">-₹120</text>
+
+  <!-- Expense Item 2 -->
+  <rect x="24" y="352" width="342" height="60" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <rect x="36" y="364" width="36" height="36" rx="10" fill="#F0FDF4"/>
+  <text x="54" y="388" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="16">📚</text>
+  <text x="84" y="378" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#0F172A">Semester Reference Books</text>
+  <text x="84" y="396" font-family="Inter,Arial,sans-serif" font-size="12" fill="#64748B">Academics • Yesterday</text>
+  <text x="350" y="387" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="700" fill="#E11D48">-₹850</text>
+
+  <!-- Expense Item 3 -->
+  <rect x="24" y="424" width="342" height="60" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <rect x="36" y="436" width="36" height="36" rx="10" fill="#FEF3C7"/>
+  <text x="54" y="460" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="16">🚌</text>
+  <text x="84" y="450" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#0F172A">Monthly Bus &amp; Metro Pass</text>
+  <text x="84" y="468" font-family="Inter,Arial,sans-serif" font-size="12" fill="#64748B">Travel • Oct 18</text>
+  <text x="350" y="459" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="700" fill="#E11D48">-₹480</text>
+
+  <!-- Expense Item 4 -->
+  <rect x="24" y="496" width="342" height="60" rx="14" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <rect x="36" y="508" width="36" height="36" rx="10" fill="#FDF2F8"/>
+  <text x="54" y="532" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="16">☕</text>
+  <text x="84" y="522" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#0F172A">Project Group Discussion Cafe</text>
+  <text x="84" y="540" font-family="Inter,Arial,sans-serif" font-size="12" fill="#64748B">Snacks • Oct 16</text>
+  <text x="350" y="531" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="700" fill="#E11D48">-₹90</text>
+
+  <!-- Navigation Action Button -->
+  <rect x="24" y="600" width="342" height="52" rx="14" fill="url(#primaryGrad)"/>
+  <text x="195" y="633" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">VIEW STUDENT PROFILE</text>
+
+  <!-- Quick Info -->
+  <text x="195" y="780" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#94A3B8">FinWise v1.0 • Student Task &amp; Expense Manager</text>
+</svg>

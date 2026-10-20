@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <defs>
+    <linearGradient id="primaryGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background Frame -->
+  <rect width="390" height="844" rx="32" fill="#F8FAFC"/>
+  
+  <!-- Status bar simulation -->
+  <circle cx="40" cy="30" r="4" fill="#94A3B8"/>
+  <circle cx="52" cy="30" r="4" fill="#94A3B8"/>
+  <circle cx="64" cy="30" r="4" fill="#94A3B8"/>
+  <text x="345" y="34" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="600" fill="#64748B" text-anchor="end">100%</text>
+
+  <!-- Brand Icon -->
+  <rect x="32" y="90" width="56" height="56" rx="16" fill="url(#primaryGrad)"/>
+  <text x="60" y="126" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">₹</text>
+
+  <!-- Title & Subtitle -->
+  <text x="32" y="185" font-family="Inter,Arial,sans-serif" font-size="30" font-weight="800" fill="#0F172A">FinWise</text>
+  <text x="32" y="215" font-family="Inter,Arial,sans-serif" font-size="15" fill="#64748B">Smart Student Budget &amp; Expense Tracker</text>
+
+  <!-- Form Fields -->
+  <text x="32" y="280" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#334155">College Email</text>
+  <rect x="32" y="295" width="326" height="52" rx="12" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <text x="48" y="327" font-family="Inter,Arial,sans-serif" font-size="15" fill="#94A3B8">student@apsit.edu.in</text>
+
+  <text x="32" y="385" font-family="Inter,Arial,sans-serif" font-size="14" font-weight="600" fill="#334155">Password</text>
+  <rect x="32" y="400" width="326" height="52" rx="12" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1.5"/>
+  <text x="48" y="432" font-family="Inter,Arial,sans-serif" font-size="15" fill="#94A3B8">••••••••</text>
+
+  <!-- Login Button -->
+  <rect x="32" y="490" width="326" height="54" rx="12" fill="url(#primaryGrad)"/>
+  <text x="195" y="524" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">LOGIN TO DASHBOARD</text>
+
+  <!-- Bottom Details -->
+  <text x="195" y="760" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="500" fill="#64748B">ROSPL Exp-10 • BE IT</text>
+  <text x="195" y="785" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="12" fill="#94A3B8">Department of Information Technology • APSIT</text>
+</svg>
